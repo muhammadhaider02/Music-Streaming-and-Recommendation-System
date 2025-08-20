@@ -15,7 +15,6 @@ RhythmRabbit is a web-based music streaming platform that also includes a mrecom
 - **Database**: MongoDB.
 - **Data Processing**: Apache Kafka, Apache Spark.
 
-
 ## Installation and Setup
 
 ### Prerequisites
